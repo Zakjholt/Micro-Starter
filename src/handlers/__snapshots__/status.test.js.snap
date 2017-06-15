@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`echo endpoint success 1`] = `"Test"`;
+
+exports[`status endpoint 1`] = `
+Object {
+  "status": "healthy",
+}
+`;

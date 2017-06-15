@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`echoBuilder 1`] = `
+Object {
+  "message": "These ones go to eleven",
+}
+`;
+
+exports[`statusBuilder 1`] = `
+Object {
+  "status": "healthy",
+}
+`;
